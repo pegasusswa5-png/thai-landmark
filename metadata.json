@@ -1,0 +1,6 @@
+{
+  "name": "Local Tourism Planner",
+  "description": "เว็บไซต์สำหรับวางแผนและค้นหาจุดท่องเที่ยวชุมชน จุดลับ ร้านอาหาร และที่พักท้องถิ่น เพื่อช่วยกระจายรายได้สู่ชุมชนอย่างแท้จริง",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
